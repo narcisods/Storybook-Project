@@ -1,0 +1,14 @@
+My Awesome Project
+
+Created a working app by that ables users to write stories and share/view other's stories.
+
+How It's Made:
+Tech used: HTML, CSS, JavaScript, Node, Mongoose, Express, Handlebars, Passport
+
+Decided to create this app to learn how to build a full stack application in one day. Followed tutorials to complete.
+
+Optimizations
+Many. I plan to improve this into something bigger and better.
+
+Lessons Learned:
+Learned much more on how to use express, node, handlebars, mongoose, and google authentication/passport.
